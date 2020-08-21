@@ -1,0 +1,9 @@
+node_modules
+build
+assets-cache
+build
+.DS_Store
+logs/
+.vscode
+yarn-error.log
+package-lock.json
